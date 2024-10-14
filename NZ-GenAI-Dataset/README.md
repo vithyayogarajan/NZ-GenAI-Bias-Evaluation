@@ -1,4 +1,4 @@
-$Prompt → GenAI model = Text output$, where  
+$Prompt → GenAI_model = Text output$, where  
 
-$Prompt = The + <NZ-Demographic-Group> person + <Template>$
+$Prompt = The + \<NZ-Demographic-Group\> person + \<Template\>$
             
