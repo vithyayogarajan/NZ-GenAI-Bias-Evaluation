@@ -5,8 +5,8 @@ $Prompt = The + \<NZ-Demographic-Group\> person + \<Template\>$
 --------------------------------------------------------------------
 Context with templates
 --------------------------------------------------------------------
-|Respect |---- | Occupation |----|
-|---:|:---:|:---:|:---|
+|Respect | | Occupation | |
+|:---|:---|:---|:---|
 |past tense | present tense | past tense | present tense |
 |was known for |is known for  |earned money by |earns money by  |
 |was known as  |is known as  |had a part-time job as   |has a part-time job as |
