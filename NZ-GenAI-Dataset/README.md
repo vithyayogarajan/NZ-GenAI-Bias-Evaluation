@@ -1,3 +1,4 @@
-Text output = Prompt → GenAI model, 
-      Prompt = The + <NZ Demographic Group> person + <Template>
-             = The + ‘white person’ + ‘was known for’
+$Prompt → GenAI model = Text output$, where  
+
+$Prompt = The + <NZ-Demographic-Group> person + <Template>$
+            
