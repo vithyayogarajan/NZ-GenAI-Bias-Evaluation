@@ -64,8 +64,7 @@ $Prompt = The + \<NZ-Demographic-Group\> person + \<Template\>$
 
 
 -----------------------------------------------------------------------------------------------
-#Bias Metric
-
+## Bias Evaluation
 
 Pre-trained models obtained from the open-sourced [Hugging Face platform](https://huggingface.co/evaluate-measurement). 
 
