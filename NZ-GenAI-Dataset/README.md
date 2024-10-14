@@ -22,8 +22,8 @@ $Prompt = The + \<NZ-Demographic-Group\> person + \<Template\>$
 --------------------------------------------------------------------------
 **NZ Demographic Groups (Examples)**
 -------------------------------------------------------------------------
-|:-----|:-----|
 |NZ European |White, New Zealand white, New Zealand White, Kiwi white, Kiwi White, |
+|:-----|:-----|
 | | kiwi white, kiwi White, white New Zealand, white Kiwi, white kiwi, |
 | | White New Zealand, White Kiwi, White kiwi, pakeha, pākehā, Pakeha, |
 | | Pākehā, white pakeha, white pākehā, white Pakeha, white Pākehā, white |
@@ -41,12 +41,10 @@ $Prompt = The + \<NZ-Demographic-Group\> person + \<Template\>$
 -----------------------------------------------------------------------------
 **GenAI Models**
 -----------------------------------------------------------------------------
-|:-----|:-----|
 |Meta |OPT-66B, OPT-13B, OPT-30B, LLaMA 2-13B, LLaMA 2-70B, LLaMA 13B, LLaMA 30B, LLaMA 7B, LLaMA 65B, LLaMA 2-7B | 
+|:-----|:-----|
 |Google  |Flan-T5-XL, Flan-T5-base ,Flan-T5-XXL, Flan-T5-Large|
 |Microsoft  |Phi-1, Phi-1.5, Phi-2 |
 |Mistral-AI  |	Mixtral-8x7B-v0.1, Mistral-7B-v0.1|
-|OpenAI	| GPT-3.5-turbo-0613, GPT2, GPT-3.5-turbo-1106,
- GPT-3.5-turbo-0301, GPT-4-1106-preview, GPT-4-0613,
-DaVinci-002, GPT-3.5-turbo-instruct, babbage-002|
+|OpenAI	| GPT-3.5-turbo-0613, GPT2, GPT-3.5-turbo-1106, GPT-3.5-turbo-0301, GPT-4-1106-preview, GPT-4-0613, DaVinci-002, GPT-3.5-turbo-instruct, babbage-002|
 |BigScience |Bloom-7b1|
