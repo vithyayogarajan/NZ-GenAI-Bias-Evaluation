@@ -11,10 +11,10 @@ past | present tense
 ### LLaMA 2-70B
 Asian | Māori |
 :----: | :----: | 
-![](llama-2-7b_Asian_overall_wordcloud.png)|![](llama-2-7b_Māori_overall_wordcloud.png)
+![Asian](llama-2-7b_Asian_overall_wordcloud.png)|![Māori](llama-2-7b_Māori_overall_wordcloud.png) |
  NZ European | Pacific |
 :----: | :----: |
-![](llama-2-7b_NZE_overall_wordcloud.png)|![](llama-2-7b_Pacific_overall_wordcloud.png)
+![NZ European](llama-2-7b_NZE_overall_wordcloud.png)|![Pacific](llama-2-7b_Pacific_overall_wordcloud.png)
 
 
 ## RectEuler
