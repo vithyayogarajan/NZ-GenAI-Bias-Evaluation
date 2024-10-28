@@ -13,7 +13,6 @@ Asian | Māori |
 :----: | :----: | 
 ![Asian](word-cloud-examples/llama-2-7b_Asian_overall_wordcloud.png)|![Māori](word-cloud-examples/llama-2-7b_Māori_overall_wordcloud.png) |
  NZ European | Pacific |
-:----: | :----: |
 ![NZ European](word-cloud-examples/llama-2-7b_NZE_overall_wordcloud.png)|![Pacific](word-cloud-examples/llama-2-7b_Pacific_overall_wordcloud.png)
 
 
