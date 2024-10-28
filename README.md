@@ -7,3 +7,6 @@ Vithya Yogarajan*, Gillian Dobbie, Kejun Dai, and Aaron Keesing (2024). A Compar
 Vithya Yogarajan*, Gillian Dobbie, David Trye, and Aaron Keesing (2024). Choose Your Prompt Carefully! ICONIP (extended abstract).
 
 ---------------------------------------------------------------------------------
+***Details on prompt generation and datasets with python scripts*** are presented at [NZ-GenAI-Dataset](NZ-GenAI-Dataset).
+***Details on evaluations with python scripts** are presented at [Evaluations](NZ-GenAI-Dataset/Evaluation).
+***Details on visualisation techniques with sample code and images*** are presented at [Visualisation](visualisation).
